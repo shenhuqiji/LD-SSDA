@@ -1,4 +1,4 @@
-# pytorch-Lane Detection
+# pytorch-Lane Detection with SSDA
 
 Code for paper 'Semi-Supervised Domain Adaptation with Dual-Adversarial Learning for Lane Detection'
 
