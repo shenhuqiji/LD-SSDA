@@ -36,6 +36,6 @@ After installing the dependency:
     ```
     To test it, please do:
     ```Shell
-    python test.py --model-file ./lcheckpoint.pth.tar
+    python test.py --model-file ./checkpoint.pth.tar
     ```
 
