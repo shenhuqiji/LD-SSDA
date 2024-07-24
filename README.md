@@ -28,7 +28,7 @@ After installing the dependency:
         [Tusimple](https://github.com/TuSimple/tusimple-benchmark/)
         
 
-2. You can train ERFNet, deeplab v3+ or other backbones.
+2. You can train model using ERFNet, deeplab v3+ or other backbones.
 
     To train it, please do:
     ```Shell
